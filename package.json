@@ -1,10 +1,10 @@
 {
   "name": "styled-jsx-postcss",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Babel transform to run PostCSS on styled-jsx. Forked from Forked from giuseppeg/styled-jsx-postcss with updated dependencies.",
   "author": "Giuseppe Gurgone",
   "license": "MIT",
-  "repository": "styled-jsx-postcss.git",
+  "repository": "efossvold/styled-jsx-postcss",
   "files": [
     "dist",
     "server.js",
